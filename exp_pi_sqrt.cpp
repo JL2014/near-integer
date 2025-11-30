@@ -1,6 +1,4 @@
-// exp_pi_sqrt.cpp
 // Compile : g++ -O2 exp_pi_sqrt.cpp -o exp_pi_sqrt `pkg-config --cflags --libs flint`
-
 #include <iostream>
 #include <cstdlib>
 #include <cmath>
